@@ -61,6 +61,7 @@ The output is formed by these criteria.
           We assume that there are too many words in the window.
           
 Output example:
+<pre><code>{
   * 1
   * 00:00:03,130 --> 00:00:10,123
   * Hello, eveyone.
@@ -76,7 +77,7 @@ Output example:
   * 00:00:24,090 --> 00:00:45,012
   * Isn't it interesting? Alright, see you next time.
   * ##########The stack is cleared because the starttime second is 24 and the previous endtime was 22.
-  
+}</code></pre>
   
  
  
