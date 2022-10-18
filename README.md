@@ -61,23 +61,23 @@ The output is formed by these criteria.
           We assume that there are too many words in the window.
           
 Output example:
-<pre><code>{
-  * 1
-  * 00:00:03,130 --> 00:00:10,123
-  * Hello, eveyone.
-  * ##########end time is modified to the next start time.
+<pre><code>
+  1
+  00:00:03,130 --> 00:00:10,123
+  Hello, eveyone.
+  ##########end time is modified to the next start time.
 
-  * 2
-  * 00:00:10,123 --> 00:00:24,090
-  * Hello, eveyone.
-  * Today we will going to study about pop music. The pop music is a part of modern music.
-  * ##########The sentences are stacked.
+  2
+  00:00:10,123 --> 00:00:24,090
+  Hello, eveyone.
+  Today we will going to study about pop music. The pop music is a part of modern music.
+  ##########The sentences are stacked.
 
-  * 3
-  * 00:00:24,090 --> 00:00:45,012
-  * Isn't it interesting? Alright, see you next time.
-  * ##########The stack is cleared because the starttime second is 24 and the previous endtime was 22.
-}</code></pre>
+  3
+  00:00:24,090 --> 00:00:45,012
+  Isn't it interesting? Alright, see you next time.
+  ##########The stack is cleared because the starttime second is 24 and the previous endtime was 22.
+</code></pre>
   
  
  
