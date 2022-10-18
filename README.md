@@ -21,7 +21,7 @@ This is for the English subtitle internship of SSAI @ SNU.
     
 4. If you open the output file, you will see the complete subtitle file.
 
-
+!DOCTYPE html
 -Input format of text
 The input has to be txt file.
 This file consists of 4 types of sentences:
@@ -31,17 +31,17 @@ This file consists of 4 types of sentences:
   linetype 3: line break('\n')
 
 Example:
-  1
-  00:00:03,130 --> 00:00:09,999
-  Hello, eveyone.
+  *1
+  *00:00:03,130 --> 00:00:09,999
+  *Hello, eveyone.
 
-  2
-  00:00:10,123 --> 00:00:22,683
-  Today we will going to study about pop music. The pop music is a part of modern music.
+  *2
+  *00:00:10,123 --> 00:00:22,683
+  *Today we will going to study about pop music. The pop music is a part of modern music.
 
-  3
-  00:00:24,090 --> 00:00:45,012
-  Isn't it interesting? Alright, see you next time.
+  *3
+  *00:00:24,090 --> 00:00:45,012
+  *Isn't it interesting? Alright, see you next time.
   
 Well, this form is exactly what the auto translator makes so you don't have to worry about the format.
 Just put your txt file, after fixing errors of auto translator.
