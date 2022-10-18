@@ -31,18 +31,19 @@ This file consists of 4 types of sentences:
   linetype 3: line break('\n')
 
 Example:
-  * 1
-  * 00:00:03,130 --> 00:00:09,999
-  * Hello, eveyone.
+<pre><code>
+  1
+  00:00:03,130 --> 00:00:09,999
+  Hello, eveyone.
 
-  * 2
-  * 00:00:10,123 --> 00:00:22,683
-  * Today we will going to study about pop music. The pop music is a part of modern music.
+  2
+  00:00:10,123 --> 00:00:22,683
+  Today we will going to study about pop music. The pop music is a part of modern music.
 
-  * 3
-  * 00:00:24,090 --> 00:00:45,012
-  * Isn't it interesting? Alright, see you next time.
-  
+  3
+  00:00:24,090 --> 00:00:45,012
+  Isn't it interesting? Alright, see you next time.
+</code></pre>  
 Well, this form is exactly what the auto translator makes so you don't have to worry about the format.
 Just put your txt file, after fixing errors of auto translator.
 
