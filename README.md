@@ -55,9 +55,9 @@ The output is formed by these criteria.
   3. The stack will be erased if 
       1) The difference between second of current start time and previous end time is same of larger than 2.
           
-          00:12:34:567 --> 00:12:"35":568
+          00:12:34:567 --> 00:12:*35*:568
           
-          00:12:"37":789 --> 00:12:40:100
+          00:12:*37*:789 --> 00:12:40:100
           
           37 - 35 >= 2 so the subtitle window is cleared.
           
