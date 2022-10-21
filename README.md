@@ -62,6 +62,7 @@ The output is formed by these criteria.
           
           We assume that this case the lecturer goes to the new slide.
       2) More than 5 timestamps are stacked.
+     
           We assume that there are too many words in the window.
           
 Output example:
