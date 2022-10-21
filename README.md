@@ -21,7 +21,6 @@ This is for the English subtitle internship of SSAI @ SNU.
     
 4. If you open the output file, you will see the complete subtitle file.
 
-!DOCTYPE html
 -Input format of text
 The input has to be txt file.
 This file consists of 4 types of sentences:
